@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+    <link rel="stylesheet" href="http://pixner.net/boleto/demo/assets/css/bootstrap.min.css">
+    <!-- <link rel="stylesheet" href="http://pixner.net/boleto/demo/assets/css/all.min.css"> -->
+    <link rel="stylesheet" href="http://pixner.net/boleto/demo/assets/css/animate.css">
+    <link rel="stylesheet" href="http://pixner.net/boleto/demo/assets/css/flaticon.css">
+    <link rel="stylesheet" href="http://pixner.net/boleto/demo/assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="http://pixner.net/boleto/demo/assets/css/odometer.css">
+    <link rel="stylesheet" href="http://pixner.net/boleto/demo/assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="http://pixner.net/boleto/demo/assets/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="http://pixner.net/boleto/demo/assets/css/nice-select.css">
+    <link rel="stylesheet" href="http://pixner.net/boleto/demo/assets/css/main.css">
+
+    <link rel="shortcut icon" href="assets/images/icon.png" type="image/x-icon">
+
+    <title>ShowTime - Sign Up</title>
+
+
+    <style type="text/css" data-asas-style="">
+        body,
+        div,
+        a,
+        p,
+        span {
+            user-select: text !important;
+        }
+
+        p,
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            cursor: auto;
+            user-select: text !important;
+        }
+
+        ::selection {
+            background-color: #338FFF !important;
+            color: #fff !important;
+        }
+
+        #log {
+            background-image: -webkit-linear-gradient(169deg, #5560ff 17%, #aa52a1 63%, #ff4343 100%);
+            -webkit-transition: all ease 0.3s;
+            transition: all ease 0.3s;
+            border-radius: 30px;
+            width: auto;
+            /* padding-top: 20px; */
+            padding: 0 50px;
+            height: 50px;
+            text-transform: uppercase;
+            margin: 0 auto;
+            font-weight: bold;
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- ==========Preloader========== -->
+    <div class="preloader" style="display: none;">
+        <div class="preloader-inner">
+            <div class="preloader-icon">
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </div>
+    <!-- ==========Preloader========== -->
+
+    <!-- ==========Sign-In-Section========== -->
+    <section class="account-section bg_img"
+        data-background="http://pixner.net/boleto/demo/assets/images/account/account-bg.jpg" style="background-image: url(http://pixner.net/boleto/demo/assets/images/account/account-bg.jpg);>
+        <div class= " container">
+        <div class="padding-top padding-bottom">
+            <div class="account-area">
+                <div class="section-header-3">
+                    <span class="cate">welcome</span>
+                    <h2 class="title">to ShowTime </h2>
+                </div>
+                <form class="account-form" action="/user_signup" method="post" id="uss">
+                    <div class="form-group">
+                        <label for="email1">Email<span>*</span></label>
+                        <input type="text" name="mail" placeholder="Enter Your Email" id="email1" required="">
+                    </div>
+                    <div class="form-group">
+                        <label for="pass1">Password<span>*</span></label>
+                        <input type="password" name="pswd" placeholder="Password" id="pass1" required="">
+                    </div>
+                    <div class="form-group">
+                        <label for="pass1">Name<span>*</span></label>
+                        <input type="text" name="name" placeholder="Enter Your Name" id="name1" required="">
+                    </div>
+                    <div class="form-group">
+                        <label for="pass1">Phone No<span>*</span></label>
+                        <input type="text" name="phone" placeholder="Enter Your Phone Number" id="phone1" required="">
+                    </div>
+                    <!-- <div class="form-group">
+                        <label for="pass2">Confirm Password<span>*</span></label>
+                        <input type="password" placeholder="Password" id="pass2" required="">
+                    </div> -->
+                    <div class="form-group checkgroup">
+                        <input type="checkbox" id="bal" required="" checked="">
+                        <label for="bal">I agree to the <a href="#0">Terms, Privacy Policy</a> and <a
+                                href="#0">Fees</a></label>
+                    </div>
+                    <div class="form-group text-center">
+                        <!-- <input type="submit" value="Sign Up"> -->
+                        <a href="#" id="log" onclick="document.getElementById('uss').submit()" class="btn">Sign Up</a>
+                    </div>
+                </form>
+                <div class="option">
+                    Already have an account? <a href="index">Login</a>
+                </div>
+                <div class="or"><span>Or</span></div>
+                <ul class="social-icons">
+                    <li>
+                        <a href="#0">
+                            <i class="fab fa-facebook-f"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#0" class="active">
+                            <i class="fab fa-twitter"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#0">
+                            <i class="fab fa-google"></i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        </div>
+    </section>
+    <!-- ==========Sign-In-Section========== -->
+
+
+    <script src="http://pixner.net/boleto/demo/assets/js/jquery-3.3.1.min.js"></script>
+    <script src="http://pixner.net/boleto/demo/assets/js/modernizr-3.6.0.min.js"></script>
+    <script src="http://pixner.net/boleto/demo/assets/js/plugins.js"></script>
+    <script src="http://pixner.net/boleto/demo/assets/js/bootstrap.min.js"></script>
+    <script src="http://pixner.net/boleto/demo/assets/js/isotope.pkgd.min.js"></script>
+    <script src="http://pixner.net/boleto/demo/assets/js/magnific-popup.min.js"></script>
+    <script src="http://pixner.net/boleto/demo/assets/js/owl.carousel.min.js"></script>
+    <script src="http://pixner.net/boleto/demo/assets/js/wow.min.js"></script>
+    <script src="http://pixner.net/boleto/demo/assets/js/countdown.min.js"></script>
+    <script src="http://pixner.net/boleto/demo/assets/js/odometer.min.js"></script>
+    <script src="http://pixner.net/boleto/demo/assets/js/viewport.jquery.js"></script>
+    <script src="http://pixner.net/boleto/demo/assets/js/nice-select.js"></script>
+    <script src="http://pixner.net/boleto/demo/assets/js/main.js"></script>
+
+
+</body>
+
+</html>
