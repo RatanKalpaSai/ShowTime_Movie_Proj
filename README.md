@@ -40,8 +40,9 @@ Key Features:-
 
 ![image](https://github.com/RatanKalpaSai/ShowTime_Movie_Proj/assets/97551433/94db19c4-43f1-4094-b634-bd01e43fc632)
 ![image](https://github.com/RatanKalpaSai/ShowTime_Movie_Proj/assets/97551433/8be4c86e-10d5-4dda-90dd-6c32cb1ea624)
+![image](https://github.com/RatanKalpaSai/ShowTime_Movie_Proj/assets/97551433/6816e8a0-9ba9-4c5e-a89d-82150e30ff78)
 
-
+5) 
 
 
 
