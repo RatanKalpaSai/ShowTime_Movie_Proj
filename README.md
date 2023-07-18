@@ -1,6 +1,6 @@
 # ShowTime_Movie_Proj
 
-ShowTime is a Movie Ticket Booking Platform where there is a Admin side and customer side. At the Admin Side 
+ShowTime is a Movie Ticket Booking Platform where there is a Admin side and customer side. At the Admin can Edit Movies,Admins, and Users.
 
 SetUp :-
 
