@@ -31,8 +31,15 @@ Key Features:-
 
 ![image](https://github.com/RatanKalpaSai/ShowTime_Movie_Proj/assets/97551433/21afbe8f-7af7-4109-9f8a-eb5870b12492)
 
+3) For every movie added in the database, it automatically creates a page of basic info of the movie such as trailer, Actors, Plot, Rating , Pics. 
 
+![image](https://github.com/RatanKalpaSai/ShowTime_Movie_Proj/assets/97551433/ac5842b8-8bd6-48c8-8c81-a4ebcb045b52)
+![image](https://github.com/RatanKalpaSai/ShowTime_Movie_Proj/assets/97551433/f8ed43a1-72b0-46b9-9958-1ec6d1c941d9)
 
+4) We can also edit user data and manage the tickets in the profile page of Customer.
+
+![image](https://github.com/RatanKalpaSai/ShowTime_Movie_Proj/assets/97551433/94db19c4-43f1-4094-b634-bd01e43fc632)
+![image](https://github.com/RatanKalpaSai/ShowTime_Movie_Proj/assets/97551433/8be4c86e-10d5-4dda-90dd-6c32cb1ea624)
 
 
 
