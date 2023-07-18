@@ -38,18 +38,29 @@ Key Features:-
 
 4) We can also edit user data and manage the tickets in the profile page of Customer.
 
-![image](https://github.com/RatanKalpaSai/ShowTime_Movie_Proj/assets/97551433/94db19c4-43f1-4094-b634-bd01e43fc632)
-![image](https://github.com/RatanKalpaSai/ShowTime_Movie_Proj/assets/97551433/8be4c86e-10d5-4dda-90dd-6c32cb1ea624)
-![image](https://github.com/RatanKalpaSai/ShowTime_Movie_Proj/assets/97551433/6816e8a0-9ba9-4c5e-a89d-82150e30ff78)
+![image](https://github.com/RatanKalpaSai/ShowTime_Movie_Proj/assets/97551433/bee75245-661a-4544-94f4-363a97c183cd)
+![image](https://github.com/RatanKalpaSai/ShowTime_Movie_Proj/assets/97551433/7f48940a-1a02-4d44-ae46-9c0b91537cf3)
+![image](https://github.com/RatanKalpaSai/ShowTime_Movie_Proj/assets/97551433/ca5156a3-8385-4196-bced-c0c82d1c9def)
 
-5) 
+Website Pics:-
 
+![image](https://github.com/RatanKalpaSai/ShowTime_Movie_Proj/assets/97551433/c97655d2-c1c2-4861-a88d-03c483c9011e)
 
+![image](https://github.com/RatanKalpaSai/ShowTime_Movie_Proj/assets/97551433/944c12ff-6479-4b68-b4db-9b7f71c23027)
 
+![image](https://github.com/RatanKalpaSai/ShowTime_Movie_Proj/assets/97551433/cfd3ac5b-f41d-4477-9157-18aa678057f8)
 
+![image](https://github.com/RatanKalpaSai/ShowTime_Movie_Proj/assets/97551433/513e4d6b-dd37-42d9-bd81-484c77a5117a)
 
+![image](https://github.com/RatanKalpaSai/ShowTime_Movie_Proj/assets/97551433/c23dd623-3846-4a84-9ae8-74a3397d177b)
 
+![image](https://github.com/RatanKalpaSai/ShowTime_Movie_Proj/assets/97551433/12f2ac75-4f18-4a26-a131-37d1a9073422)
 
+Details in the below pic is auto generated.
+
+![image](https://github.com/RatanKalpaSai/ShowTime_Movie_Proj/assets/97551433/f2ebce23-c4f3-477e-9236-f30600bcf36a)
+
+Also Seats get added when its cancelled from the profile and the number of tickets is here dynamic.
 
 
 
